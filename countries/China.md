@@ -3,7 +3,7 @@
 
 1.3 billion
 ## capital
-Beijing
+Beijing  location
  
 ## official language
 Chinese
